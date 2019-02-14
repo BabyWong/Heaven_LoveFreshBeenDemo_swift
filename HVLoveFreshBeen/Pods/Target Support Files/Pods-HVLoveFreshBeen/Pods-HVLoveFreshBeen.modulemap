@@ -1,0 +1,6 @@
+framework module Pods_HVLoveFreshBeen {
+  umbrella header "Pods-HVLoveFreshBeen-umbrella.h"
+
+  export *
+  module * { export * }
+}
