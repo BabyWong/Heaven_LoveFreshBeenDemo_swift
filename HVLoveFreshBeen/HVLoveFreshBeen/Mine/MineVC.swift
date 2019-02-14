@@ -24,7 +24,6 @@ class MineVC: BaseViewController {
         return mineModel
     }()
     
-
     override func viewDidLoad() {
         super.viewDidLoad()
         buildUI()
