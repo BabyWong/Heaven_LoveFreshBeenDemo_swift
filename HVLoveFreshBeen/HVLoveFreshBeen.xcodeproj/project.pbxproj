@@ -57,6 +57,26 @@
 		57AA8523221FA209000DB2D9 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA851C221FA209000DB2D9 /* DataManager.swift */; };
 		57AA8524221FA209000DB2D9 /* JPConfig.db in Resources */ = {isa = PBXBuildFile; fileRef = 57AA851D221FA209000DB2D9 /* JPConfig.db */; };
 		57AA8525221FA209000DB2D9 /* DataConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA851E221FA209000DB2D9 /* DataConfig.swift */; };
+		57AA8529221FC40F000DB2D9 /* HomeReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8528221FC40F000DB2D9 /* HomeReusableView.swift */; };
+		57AA852B221FC4CB000DB2D9 /* HomeHotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA852A221FC4CB000DB2D9 /* HomeHotView.swift */; };
+		57AA852D221FC509000DB2D9 /* HeadResources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA852C221FC509000DB2D9 /* HeadResources.swift */; };
+		57AA852F221FC554000DB2D9 /* FreshHot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA852E221FC554000DB2D9 /* FreshHot.swift */; };
+		57AA8531221FC59A000DB2D9 /* IconImageTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8530221FC59A000DB2D9 /* IconImageTextView.swift */; };
+		57AA8533221FC5ED000DB2D9 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8532221FC5ED000DB2D9 /* UIView+Extension.swift */; };
+		57AA8535221FC640000DB2D9 /* HomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8534221FC640000DB2D9 /* HomeCell.swift */; };
+		57AA8537221FC6B2000DB2D9 /* HomeHeadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8536221FC6B2000DB2D9 /* HomeHeadView.swift */; };
+		57AA8539221FC6F7000DB2D9 /* PageScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8538221FC6F7000DB2D9 /* PageScrollView.swift */; };
+		57AA853B221FC776000DB2D9 /* AnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA853A221FC776000DB2D9 /* AnimationViewController.swift */; };
+		57AA853D221FC7A0000DB2D9 /* SelectedAdressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA853C221FC7A0000DB2D9 /* SelectedAdressViewController.swift */; };
+		57AA853F221FC7DB000DB2D9 /* AdressTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA853E221FC7DB000DB2D9 /* AdressTitleView.swift */; };
+		57AA8543221FC860000DB2D9 /* UIBarButtonItem+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8542221FC860000DB2D9 /* UIBarButtonItem+Extension.swift */; };
+		57AA8545221FC931000DB2D9 /* LFBCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8544221FC931000DB2D9 /* LFBCollectionView.swift */; };
+		57AA8547221FC9C3000DB2D9 /* DiscountPriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8546221FC9C3000DB2D9 /* DiscountPriceView.swift */; };
+		57AA8549221FC9DB000DB2D9 /* BuyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8548221FC9DB000DB2D9 /* BuyView.swift */; };
+		57AA854B221FCA05000DB2D9 /* ShopCarRedDotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA854A221FCA05000DB2D9 /* ShopCarRedDotView.swift */; };
+		57AA854D221FCA27000DB2D9 /* UserShopCarTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA854C221FCA27000DB2D9 /* UserShopCarTool.swift */; };
+		57AA854F221FCA92000DB2D9 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA854E221FCA92000DB2D9 /* String+Extension.swift */; };
+		57AA8551221FCC41000DB2D9 /* ProgressHUDManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AA8550221FCC41000DB2D9 /* ProgressHUDManager.swift */; };
 		57AAC93121FEAA22002716CE /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 57AAC93021FEAA22002716CE /* libsqlite3.tbd */; };
 /* End PBXBuildFile section */
 
@@ -133,6 +153,26 @@
 		57AA851C221FA209000DB2D9 /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		57AA851D221FA209000DB2D9 /* JPConfig.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = JPConfig.db; sourceTree = "<group>"; };
 		57AA851E221FA209000DB2D9 /* DataConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataConfig.swift; sourceTree = "<group>"; };
+		57AA8528221FC40F000DB2D9 /* HomeReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeReusableView.swift; sourceTree = "<group>"; };
+		57AA852A221FC4CB000DB2D9 /* HomeHotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeHotView.swift; sourceTree = "<group>"; };
+		57AA852C221FC509000DB2D9 /* HeadResources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadResources.swift; sourceTree = "<group>"; };
+		57AA852E221FC554000DB2D9 /* FreshHot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreshHot.swift; sourceTree = "<group>"; };
+		57AA8530221FC59A000DB2D9 /* IconImageTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconImageTextView.swift; sourceTree = "<group>"; };
+		57AA8532221FC5ED000DB2D9 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		57AA8534221FC640000DB2D9 /* HomeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCell.swift; sourceTree = "<group>"; };
+		57AA8536221FC6B2000DB2D9 /* HomeHeadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeHeadView.swift; sourceTree = "<group>"; };
+		57AA8538221FC6F7000DB2D9 /* PageScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageScrollView.swift; sourceTree = "<group>"; };
+		57AA853A221FC776000DB2D9 /* AnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewController.swift; sourceTree = "<group>"; };
+		57AA853C221FC7A0000DB2D9 /* SelectedAdressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedAdressViewController.swift; sourceTree = "<group>"; };
+		57AA853E221FC7DB000DB2D9 /* AdressTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdressTitleView.swift; sourceTree = "<group>"; };
+		57AA8542221FC860000DB2D9 /* UIBarButtonItem+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIBarButtonItem+Extension.swift"; sourceTree = "<group>"; };
+		57AA8544221FC931000DB2D9 /* LFBCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFBCollectionView.swift; sourceTree = "<group>"; };
+		57AA8546221FC9C3000DB2D9 /* DiscountPriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscountPriceView.swift; sourceTree = "<group>"; };
+		57AA8548221FC9DB000DB2D9 /* BuyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyView.swift; sourceTree = "<group>"; };
+		57AA854A221FCA05000DB2D9 /* ShopCarRedDotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCarRedDotView.swift; sourceTree = "<group>"; };
+		57AA854C221FCA27000DB2D9 /* UserShopCarTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserShopCarTool.swift; sourceTree = "<group>"; };
+		57AA854E221FCA92000DB2D9 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		57AA8550221FCC41000DB2D9 /* ProgressHUDManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHUDManager.swift; sourceTree = "<group>"; };
 		57AAC93021FEAA22002716CE /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		5BA128B1DC4651FE98244B34 /* Pods_HVLoveFreshBeen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HVLoveFreshBeen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85D55B234AEADA287D0B5061 /* Pods-HVLoveFreshBeen.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HVLoveFreshBeen.debug.xcconfig"; path = "Target Support Files/Pods-HVLoveFreshBeen/Pods-HVLoveFreshBeen.debug.xcconfig"; sourceTree = "<group>"; };
@@ -273,6 +313,7 @@
 				576C31AF21E32E2C00CA1CC9 /* BaseNavigationController.swift */,
 				576C31B121E32E9D00CA1CC9 /* BaseTabBarController.swift */,
 				5707BE3921EC8C6E00158D84 /* AnimationTabBarController.swift */,
+				57AA853A221FC776000DB2D9 /* AnimationViewController.swift */,
 			);
 			path = BaseVC;
 			sourceTree = "<group>";
@@ -307,6 +348,12 @@
 				576C31F521E7164100CA1CC9 /* BaseTableView.swift */,
 				576C31F621E7164100CA1CC9 /* ShopCartNumberView.swift */,
 				576C31FB21E71DD400CA1CC9 /* ButtonExtension.swift */,
+				57AA8538221FC6F7000DB2D9 /* PageScrollView.swift */,
+				57AA853E221FC7DB000DB2D9 /* AdressTitleView.swift */,
+				57AA8544221FC931000DB2D9 /* LFBCollectionView.swift */,
+				57AA8546221FC9C3000DB2D9 /* DiscountPriceView.swift */,
+				57AA8548221FC9DB000DB2D9 /* BuyView.swift */,
+				57AA854A221FCA05000DB2D9 /* ShopCarRedDotView.swift */,
 			);
 			path = CommonView;
 			sourceTree = "<group>";
@@ -335,6 +382,9 @@
 			isa = PBXGroup;
 			children = (
 				57AA84F7221FA1F0000DB2D9 /* HomeVC.swift */,
+				57AA8526221FC3A6000DB2D9 /* Model */,
+				57AA8527221FC3A6000DB2D9 /* View */,
+				57AA853C221FC7A0000DB2D9 /* SelectedAdressViewController.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -408,6 +458,8 @@
 		57AA8513221FA209000DB2D9 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				57AA854C221FCA27000DB2D9 /* UserShopCarTool.swift */,
+				57AA8550221FCC41000DB2D9 /* ProgressHUDManager.swift */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -416,6 +468,9 @@
 			isa = PBXGroup;
 			children = (
 				57AA8515221FA209000DB2D9 /* Color+Extension.swift */,
+				57AA8532221FC5ED000DB2D9 /* UIView+Extension.swift */,
+				57AA8542221FC860000DB2D9 /* UIBarButtonItem+Extension.swift */,
+				57AA854E221FCA92000DB2D9 /* String+Extension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -445,6 +500,27 @@
 				57AA851E221FA209000DB2D9 /* DataConfig.swift */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		57AA8526221FC3A6000DB2D9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				57AA852C221FC509000DB2D9 /* HeadResources.swift */,
+				57AA852E221FC554000DB2D9 /* FreshHot.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		57AA8527221FC3A6000DB2D9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				57AA8528221FC40F000DB2D9 /* HomeReusableView.swift */,
+				57AA852A221FC4CB000DB2D9 /* HomeHotView.swift */,
+				57AA8530221FC59A000DB2D9 /* IconImageTextView.swift */,
+				57AA8534221FC640000DB2D9 /* HomeCell.swift */,
+				57AA8536221FC6B2000DB2D9 /* HomeHeadView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -657,12 +733,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				57AA8508221FA1F0000DB2D9 /* HomeVC.swift in Sources */,
+				57AA8549221FC9DB000DB2D9 /* BuyView.swift in Sources */,
 				57AA851F221FA209000DB2D9 /* Color+Extension.swift in Sources */,
 				57AA850A221FA1F0000DB2D9 /* SettingViewController.swift in Sources */,
 				576C31B221E32E9D00CA1CC9 /* BaseTabBarController.swift in Sources */,
 				57AA8510221FA1F0000DB2D9 /* MineHeadView.swift in Sources */,
 				57AA850B221FA1F0000DB2D9 /* MineVC.swift in Sources */,
 				576C31F721E7164100CA1CC9 /* BaseTableView.swift in Sources */,
+				57AA8537221FC6B2000DB2D9 /* HomeHeadView.swift in Sources */,
+				57AA854D221FCA27000DB2D9 /* UserShopCarTool.swift in Sources */,
 				571811F021DDA2B40077E446 /* Theme.swift in Sources */,
 				57AA8522221FA209000DB2D9 /* APIUrls.swift in Sources */,
 				57AA8525221FA209000DB2D9 /* DataConfig.swift in Sources */,
@@ -670,18 +749,35 @@
 				57AA850C221FA1F0000DB2D9 /* OrderViewController.swift in Sources */,
 				57AA8520221FA209000DB2D9 /* HVRefreshHeader.swift in Sources */,
 				5707BE3A21EC8C6E00158D84 /* AnimationTabBarController.swift in Sources */,
+				57AA853B221FC776000DB2D9 /* AnimationViewController.swift in Sources */,
+				57AA852F221FC554000DB2D9 /* FreshHot.swift in Sources */,
+				57AA853F221FC7DB000DB2D9 /* AdressTitleView.swift in Sources */,
 				576C31AC21E32CAC00CA1CC9 /* BaseViewController.swift in Sources */,
 				57AA850E221FA1F0000DB2D9 /* MineCell.swift in Sources */,
+				57AA8551221FCC41000DB2D9 /* ProgressHUDManager.swift in Sources */,
 				576C31FC21E71DD400CA1CC9 /* ButtonExtension.swift in Sources */,
+				57AA8539221FC6F7000DB2D9 /* PageScrollView.swift in Sources */,
+				57AA8533221FC5ED000DB2D9 /* UIView+Extension.swift in Sources */,
+				57AA853D221FC7A0000DB2D9 /* SelectedAdressViewController.swift in Sources */,
 				57AA850D221FA1F0000DB2D9 /* MineModel.swift in Sources */,
+				57AA8543221FC860000DB2D9 /* UIBarButtonItem+Extension.swift in Sources */,
+				57AA854F221FCA92000DB2D9 /* String+Extension.swift in Sources */,
 				576C31F821E7164100CA1CC9 /* ShopCartNumberView.swift in Sources */,
 				576C31B021E32E2C00CA1CC9 /* BaseNavigationController.swift in Sources */,
 				571811BB21DCBA810077E446 /* AppDelegate.swift in Sources */,
+				57AA852D221FC509000DB2D9 /* HeadResources.swift in Sources */,
 				57AA8511221FA1F0000DB2D9 /* LoginModel.swift in Sources */,
+				57AA8535221FC640000DB2D9 /* HomeCell.swift in Sources */,
+				57AA8531221FC59A000DB2D9 /* IconImageTextView.swift in Sources */,
 				57AA8523221FA209000DB2D9 /* DataManager.swift in Sources */,
+				57AA8529221FC40F000DB2D9 /* HomeReusableView.swift in Sources */,
 				57AA850F221FA1F0000DB2D9 /* MineTableHeadView.swift in Sources */,
+				57AA8547221FC9C3000DB2D9 /* DiscountPriceView.swift in Sources */,
 				57AA8507221FA1F0000DB2D9 /* SuperMarketVC.swift in Sources */,
+				57AA8545221FC931000DB2D9 /* LFBCollectionView.swift in Sources */,
+				57AA854B221FCA05000DB2D9 /* ShopCarRedDotView.swift in Sources */,
 				57AA8521221FA209000DB2D9 /* RequestManager.swift in Sources */,
+				57AA852B221FC4CB000DB2D9 /* HomeHotView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -25,6 +25,26 @@ public let BaseNavigationYellowColor = UIColor.colorWithCustom(253, g: 212, b: 4
 public let BaseTextGreyColol = UIColor.colorWithCustom(130, g: 130, b: 130, alpha:1)
 public let BaseTextBlackColor = UIColor.colorWithCustom(50, g: 50, b: 50, alpha:1)
 
+// MARK: - Home 属性
+public let HotViewMargin: CGFloat = 10
+public let HomeCollectionViewCellMargin: CGFloat = 10
+public let HomeCollectionTextFont = UIFont.systemFont(ofSize: 14)
+public let HomeCollectionCellAnimationDuration: TimeInterval = 1.0
+
+// MARK: - 通知
+/// 首页headView高度改变
+public let HomeTableHeadViewHeightDidChange = "HomeTableHeadViewHeightDidChange"
+/// 首页商品库存不足
+public let HomeGoodsInventoryProblem = "HomeGoodsInventoryProblem"
+//  购物车管理工具通知
+public let LFBShopCarDidRemoveProductNSNotification = "LFBShopCarDidRemoveProductNSNotification"
+/// 购买商品数量发生改变
+public let LFBShopCarBuyProductNumberDidChangeNotification = "LFBShopCarBuyProductNumberDidChangeNotification"
+/// 购物车商品价格发送改变
+public let LFBShopCarBuyPriceDidChangeNotification = "LFBShopCarBuyPriceDidChangeNotification"
+// MARK: - 购物车ViewController
+public let ShopCartRowHeight: CGFloat = 50
+
 
 // MARK: - HTMLURL
 ///优惠劵使用规则

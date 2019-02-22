@@ -8,3 +8,4 @@
 #import "AFNetworking.h"
 #import "SVProgressHUD.h"
 #import "FMDatabase.h"
+#import "UIImageView+WebCache.h"
